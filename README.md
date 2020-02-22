@@ -13,4 +13,4 @@ From the initial state of the puzzle, used 4 different moves [Right, Left, Up , 
 
 Used Back Tracking to find the path to solve the problem.
 
-Found Goal State. [[1, 2, 3] , [4, 5, 6], [7, 8, 9]]
+Found Goal State. [[1, 2, 3] , [4, 5, 6], [7, 8, 0]]
